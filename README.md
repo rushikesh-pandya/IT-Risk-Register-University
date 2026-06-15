@@ -31,6 +31,6 @@ A complete GRC (Governance, Risk & Compliance) project built from scratch as par
 ---
 ## 🗺️ Risk Heat Map Preview
 
-![Risk Heat Map](Heat Map.png)
+![Risk Heat Map](Heat_Map.png)
 
 ---
