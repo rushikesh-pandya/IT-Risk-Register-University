@@ -34,3 +34,17 @@ A complete GRC (Governance, Risk & Compliance) project built from scratch as par
 ![Risk Heat Map](Heat_Map.png)
 
 ---
+
+## 🛠️ Tools & Frameworks Used
+
+- Microsoft Excel (risk register + heat map)
+- Microsoft Word (executive summary)
+- ISO 27001 (risk management principles)
+- NIST Cybersecurity Framework (CSF)
+- GDPR compliance concepts
+
+---
+
+## 📬 Connect with Me
+
+[LinkedIn](www.linkedin.com/in/rushikesh-pandya-70131a299)
