@@ -47,4 +47,4 @@ A complete GRC (Governance, Risk & Compliance) project built from scratch as par
 
 ## 📬 Connect with Me
 
-[LinkedIn](www.linkedin.com/in/rushikesh-pandya-70131a299)
+[LinkedIn](https://www.linkedin.com/in/rushikesh-pandya-70131a299)
